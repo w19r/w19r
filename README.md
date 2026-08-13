@@ -1,72 +1,46 @@
-# Abdallah Alaydi — Personal Portfolio Website
+# Abdallah Alaydi
 
-Personal portfolio / resume website for **Abdallah Alaydi**, a Computer Systems Engineering student at Al-Azhar University, Gaza, Palestine.
+<p align="center">
+  <img src="https://abdallahalaydi.com/assets/img/profile1.jpg" width="100"/>
+</p>
 
-🔗 Live site: [w19r.org](https://w19r.org)
+<p align="center">
+  <b>Computer Systems Engineer | Web Developer | Python Developer</b>
+</p>
 
-## 📖 About
+<p align="center">
+  <a href="https://abdallahalaydi.com">🌐 Website</a> •
+  <a href="https://github.com/w19r">💻 GitHub</a> •
+  <a href="mailto:Abdallahalaydi@icloud.com">📧 Email</a>
+</p>
 
-This is a single-page personal portfolio that presents an "About Me" bio, education, courses & certifications, technical skills, and a personal vision & goals section. It also links to a curated recommendations page ("My Picks") and social profiles.
+---
 
-## ✨ Sections
+### 👋 About Me
+Computer Systems Engineering student passionate about software development and building practical web applications. 
+I love learning new technologies and turning ideas into real projects using Python.
+My goal is to become a Full-Stack Developer.
 
-- **About** — Intro, contact info, and social links
-- **Education** — Al-Azhar University & Shahdaa Al-Zaytoon Secondary School
-- **Courses & Certifications** — Coursera certificates (Python, Data Structures, Mathematical Thinking) and Cambridge English Programme
-- **Skills** — Programming languages, tools, and technical skills
-- **Vision & Goals** — Personal mission statement and career goals
-- **Footer** — Quick navigation, copyright, CV download, and social icons
+### 🚀 Tech Stack
+**Languages:** Python, CSS, HTML  
+**Tools:** Git, GitHub, VS Code, Coursera
 
-## 🛠️ Built With
+### 📌 Currently Learning & Building
+Currently working on improving my skills in Python and Web Development. 
+New projects coming soon 👇
 
-- **HTML5**
-- **[Bootstrap 5.2.3](https://getbootstrap.com/)** — layout & responsive grid
-- **[Font Awesome 6.3.0](https://fontawesome.com/)** — icons
-- **Google Fonts** — Saira Extra Condensed, Muli
-- **Custom CSS** (`css/styles.css`)
-- **Custom JS** (`js/scripts.js`)
-- Based on the **Start Bootstrap – Resume** theme
+### 📜 Certificates
+- **Python for Everybody** - University of Michigan - Coursera x5
+- **Programming for Everybody** - University of Michigan - Coursera
 
-## 📁 Project Structure
+### 📫 Let's Connect
+Feel free to reach out:  
+**Website:** [abdallahalaydi.com](https://abdallahalaydi.com)  
+**Email:** Abdallahalaydi@icloud.com
 
-```
-.
-├── index.html
-├── recommendations/          # "My Picks" sub-page
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js
-└── assets/
-    ├── img/                  # profile photo, favicon, images
-    └── files/
-        └── Cv.pdf            # downloadable CV
-```
+---
 
-## 🚀 Getting Started
-
-Since this is a static site, no build tools are required.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/w19r/<repo-name>.git
-   ```
-2. Open `index.html` in your browser, **or** serve it locally:
-   ```bash
-   npx serve .
-   ```
-
-## 🔗 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/abdallah-alaydi-6033a540b)
-- [GitHub](https://github.com/w19r)
-- [Telegram](https://t.me/w19r1)
-- [Facebook](https://www.facebook.com/1w19r)
-- [Instagram](https://www.instagram.com/1w19r)
-- [TikTok](https://www.tiktok.com/@w19r)
-- [YouTube](https://www.youtube.com/@W19RT)
-- 📧 abdallahalaydi@icloud.com
-
-## 📄 License
-
-© 2026 Abdallah Alaydi. Gaza, Palestine. All rights reserved.
+<p align="center">
+  Abdallah Alaydi <br>
+  © 2026 All Rights Reserved
+</p>
