@@ -31,6 +31,6 @@ Focused on building strong foundations in software engineering, web development,
 ---
 
 ### 🌐 Connect with Me
-[![Website](https://img.shields.io/badge/Website-w19r.org-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://abdallahalaydi.com)
+[![Website](https://img.shields.io/badge/Website-abdallahalaydi.com-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://abdallahalaydi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/abdallahalaydi?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-me@abdallahalaydi.com)
